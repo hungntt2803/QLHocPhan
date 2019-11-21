@@ -63,12 +63,12 @@
             // 
             this.textBox1.Location = new System.Drawing.Point(72, 14);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.Size = new System.Drawing.Size(164, 20);
             this.textBox1.TabIndex = 2;
             // 
             // bnt_Search
             // 
-            this.bnt_Search.Location = new System.Drawing.Point(218, 14);
+            this.bnt_Search.Location = new System.Drawing.Point(252, 14);
             this.bnt_Search.Name = "bnt_Search";
             this.bnt_Search.Size = new System.Drawing.Size(75, 23);
             this.bnt_Search.TabIndex = 3;
@@ -87,12 +87,12 @@
             // 
             this.txb_TongSoTien.Location = new System.Drawing.Point(72, 60);
             this.txb_TongSoTien.Name = "txb_TongSoTien";
-            this.txb_TongSoTien.Size = new System.Drawing.Size(100, 20);
+            this.txb_TongSoTien.Size = new System.Drawing.Size(164, 20);
             this.txb_TongSoTien.TabIndex = 5;
             // 
             // btn_DongTien
             // 
-            this.btn_DongTien.Location = new System.Drawing.Point(218, 60);
+            this.btn_DongTien.Location = new System.Drawing.Point(252, 60);
             this.btn_DongTien.Name = "btn_DongTien";
             this.btn_DongTien.Size = new System.Drawing.Size(75, 23);
             this.btn_DongTien.TabIndex = 6;
@@ -141,6 +141,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "ChinhSuaThongTinSinhVien";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Chỉnh sửa thông tin sinh viên";
             ((System.ComponentModel.ISupportInitialize)(this.DanhSachMonDataGridView)).EndInit();
             this.ResumeLayout(false);

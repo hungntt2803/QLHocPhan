@@ -42,6 +42,7 @@
             this.txtSoDienThoai = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.cbbMonHoc = new System.Windows.Forms.ComboBox();
+            this.btnDangKiHP = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -82,7 +83,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(392, 94);
+            this.label4.Location = new System.Drawing.Point(392, 90);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(40, 13);
             this.label4.TabIndex = 4;
@@ -93,9 +94,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(363, 49);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(69, 13);
+            this.label5.Size = new System.Drawing.Size(70, 13);
             this.label5.TabIndex = 5;
-            this.label5.Text = "Số diện thoại";
+            this.label5.Text = "Số điện thoại";
             // 
             // label6
             // 
@@ -143,7 +144,7 @@
             this.panel1.Controls.Add(this.rbNu);
             this.panel1.Location = new System.Drawing.Point(140, 110);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(154, 38);
+            this.panel1.Size = new System.Drawing.Size(178, 38);
             this.panel1.TabIndex = 10;
             // 
             // txtSoDienThoai
@@ -168,11 +169,21 @@
             this.cbbMonHoc.Size = new System.Drawing.Size(178, 21);
             this.cbbMonHoc.TabIndex = 13;
             // 
+            // btnDangKiHP
+            // 
+            this.btnDangKiHP.Location = new System.Drawing.Point(561, 169);
+            this.btnDangKiHP.Name = "btnDangKiHP";
+            this.btnDangKiHP.Size = new System.Drawing.Size(75, 23);
+            this.btnDangKiHP.TabIndex = 14;
+            this.btnDangKiHP.Text = "Đăng kí";
+            this.btnDangKiHP.UseVisualStyleBackColor = true;
+            // 
             // SinhVienDangKiHocPhan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 201);
+            this.ClientSize = new System.Drawing.Size(716, 204);
+            this.Controls.Add(this.btnDangKiHP);
             this.Controls.Add(this.cbbMonHoc);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.txtSoDienThoai);
@@ -186,6 +197,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txbHoTen);
             this.Name = "SinhVienDangKiHocPhan";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "SinhVienDangKiHocPhan";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -210,5 +222,6 @@
         private System.Windows.Forms.TextBox txtSoDienThoai;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.ComboBox cbbMonHoc;
+        private System.Windows.Forms.Button btnDangKiHP;
     }
 }
