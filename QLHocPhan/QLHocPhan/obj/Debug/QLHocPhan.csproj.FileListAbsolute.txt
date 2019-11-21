@@ -1,0 +1,27 @@
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\bin\Debug\QLHocPhan.exe.config
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\bin\Debug\QLHocPhan.exe
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\bin\Debug\QLHocPhan.pdb
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.csprojAssemblyReference.cache
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.DangNhap.resources
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.Properties.Resources.resources
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.QuanLyHocPhan.resources
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.csproj.GenerateResource.cache
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.exe
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.pdb
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.SinhVienDangKiHocPhan.resources
+C:\Users\KhaiCQ\Documents\Project\c#\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.ChinhSuaThongTinSinhVien.resources
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\bin\Debug\QLHocPhan.exe.config
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.exe
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.pdb
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\bin\Debug\QLHocPhan.exe
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\bin\Debug\QLHocPhan.pdb
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.DangNhap.resources
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.DanhSachHocPhan.resources
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.Properties.Resources.resources
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.QuanLyHocPhan.resources
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.SinhVienDangKiHocPhan.resources
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.ChinhSuaThongTinSinhVien.resources
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.ThemMoiHocPhan.resources
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.csproj.GenerateResource.Cache
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\Visual Studio 2013\Projects\QLHocPhan\QLHocPhan\obj\Debug\QLHocPhan.csproj.CoreCompileInputs.cache
